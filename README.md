@@ -1,36 +1,23 @@
 # Curso Introducción React JS 
-____________________________________________________
+## Scripts del Proyecto
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+Puedes correr los siguientes scripts:
 
 ### `npm start`
+Ejecuta la app en modo dev.\
+Abre [http://localhost:3000](http://localhost:3000) en el navegador.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La página se recargará, a medida que se realizen cambios.\
 
 ### `npm test`
-
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+Construye la app, para su despliegue en production. La app estara lista en la carpeta __bulid__ en .\
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+La compilación está minificada y los nombres de los archivos incluyen los hashes.\
+La App esta lista para ser desplegada!
 
 ### `npm run eject`
 
